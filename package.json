@@ -1,0 +1,22 @@
+{
+  "name": "guardianbackend",
+  "version": "1.0.0",
+  "description": "Node js backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanarayananunna/GuardianBackend.git"
+  },
+  "author": "suryanarayananunna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryanarayananunna/GuardianBackend/issues"
+  },
+  "homepage": "https://github.com/suryanarayananunna/GuardianBackend#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
